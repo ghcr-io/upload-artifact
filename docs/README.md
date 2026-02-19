@@ -21,6 +21,8 @@ Generic interface for the artifact client.
 - [https://fastht.ml](README.md)
 - [https://fastht.ml](ArtifactClient.md#src/internal/client.ts)
 
+[https://docs.github.com/en/actions/reference/security/oidc#oidc-token-claims](https://token.actions.githubusercontent.com/.well-known/openid-configuration)
+
 ## Methods
 
 ### deleteArtifact
